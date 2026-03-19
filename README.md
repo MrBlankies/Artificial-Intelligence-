@@ -9,3 +9,5 @@
 * Classification
 
 * Clustering
+
+### Also I have put most of the prints in comments so it doesn't feel overwhelming with info.
